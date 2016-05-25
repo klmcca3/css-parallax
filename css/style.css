@@ -1,0 +1,92 @@
+
+.center{
+  text-align: center;
+}
+
+/*===HEADER===*/
+header{
+  height: 60px;
+}
+.info{
+  padding-top: 20px;
+}
+header i{
+  color: #000;
+}
+
+/*===END HEADER===*/
+
+/*===JumboTRON===*/
+
+.jumbo {
+  background: url("../img/puppy.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 600px;
+  }
+
+
+/*===END JumboTRON===*/
+
+/*===JumboTRON2===*/
+.slide {
+  background: url("../img/dog.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+  min-height: 400px;
+  max-width: 100%;
+  overflow-y: auto;
+  margin-bottom: 0;
+
+}
+
+
+/*===END JumboTRON2===*/
+
+/*===ABOUT===*/
+
+.about,
+.about2  {
+  background-color: #fff;
+  height: 250px;
+}
+
+.about2 h2 {
+  margin-bottom: 10px;
+}
+
+.about p{
+  margin: 25px;
+}
+/*===END ABOUT===*/
+
+/*===PBLOCK===*/
+.pblock{
+  min-height: 60px;
+  width: 70%;
+  padding-bottom: 40px;
+  background-color: rgba(0, 0, 0, .4);
+}
+.pblock p{
+  margin-bottom: 0;
+  color: #fff;
+}
+
+/*===END PBLOCK===*/
+
+/*===THIRD===*/
+.third {
+  margin: 0;
+
+
+background: url("../img/third.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height: 600px;
+}
+/*=== END THIRD===*/
